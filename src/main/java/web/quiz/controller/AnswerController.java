@@ -1,7 +1,9 @@
-package web.quiz;
+package web.quiz.controller;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
+import web.quiz.dao.Answer;
+import web.quiz.Result;
 
 import java.util.List;
 

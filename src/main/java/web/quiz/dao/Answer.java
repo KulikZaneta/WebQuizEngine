@@ -1,4 +1,4 @@
-package web.quiz;
+package web.quiz.dao;
 
 import java.util.List;
 
